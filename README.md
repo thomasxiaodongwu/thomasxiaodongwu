@@ -89,7 +89,7 @@ More projects are available in my [repositories](https://github.com/YourUsername
 
 I'm always excited to collaborate on innovative blockchain projects or discuss Web3 ideas. Feel free to reach out to me:  
 
-- 💼 [Wechat](755147511)
+- 💼 [Wechat] 755147511
 - 💼 [Telegram](https://t.me/thomasquant)
 - 💼 [Whatsapp](+86 199 4622 5947)  
 
