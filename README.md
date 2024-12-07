@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm thomas  
 
 Welcome to my GitHub profile! I'm a passionate **blockchain developer** specializing in **Solana** and **Ethereum ecosystems**, with a strong focus on **smart contracts**, **bots**, **security (attack/defense)**, and **game development**. I thrive on solving complex problems, building decentralized applications, and contributing to the future of Web3.
 
@@ -82,13 +82,6 @@ Here are a few of the projects I’ve worked on that showcase my expertise:
   - Integrated NFTs for in-game assets (characters, items).  
 
 More projects are available in my [repositories](https://github.com/YourUsername?tab=repositories).  
-
----
-
-## 📈 Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
 
 ---
 
