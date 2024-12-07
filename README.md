@@ -85,20 +85,13 @@ More projects are available in my [repositories](https://github.com/YourUsername
 
 ---
 
-## 🌱 What I'm Currently Learning  
-- Exploring **zk-rollups** and **zero-knowledge proofs** for scalable and private dApps.  
-- Diving deeper into **MEV strategies** and **Solana runtime optimizations**.  
-- Expanding my knowledge of **cross-chain interoperability** (e.g., Wormhole, LayerZero).  
-
----
-
 ## 💬 Let's Connect!  
 
 I'm always excited to collaborate on innovative blockchain projects or discuss Web3 ideas. Feel free to reach out to me:  
 
-- 💼 [LinkedIn](https://linkedin.com/in/YourProfile)  
-- 💻 [Portfolio Website](https://yourwebsite.com)  
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)  
+- 💼 [Wechat](755147511)
+- 💼 [Telegram](https://t.me/thomasquant)
+- 💼 [Whatsapp](+86 199 4622 5947)  
 
 ---
 
