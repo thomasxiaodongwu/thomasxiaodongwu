@@ -40,7 +40,7 @@ I am a Blockchain Developer with a proven record of extracting alpha, building i
 
 ### 🏙️ NFT Protocols & Market Infrastructure
 
-- **Magic Eden (Solana) Core Contracts**
+- **XXX NFT (Solana) Core Contracts**
     - M2: NFT marketplace with programmable NFTs, royalties, OCP, multi-currency support, and notary mechanisms.
     - M3: Compressed NFT protocol—forced royalties, atomic swaps, maker-taker fees, double-spend prevention.
     - MMM-AMM: NFT AMM for collection bids, dynamic liquidity, batch trading, and royalty integration.
@@ -63,7 +63,7 @@ I am a Blockchain Developer with a proven record of extracting alpha, building i
 
 ### 🛠️ Token Launch & Fundraising Protocols
 
-- **MagicFun Sol (Solana) & MagicFun (EVM)**
+- **PumpFun Sol (Solana) & PumpFun (EVM)**
     - Bonding curve-based token creation, AMM mechanics, auto-Uniswap listing, and locked liquidity.
 
 ---
