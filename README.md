@@ -78,7 +78,6 @@ A few public repos related to my interests (strategies, bots, infra, protocol ex
 ## Contact
 - Email: **thomas_sue_wu@hotmail.com**
 - Telegram: **@thomasquant**
-- GitHub: https://github.com/thomasxiaodongwu
 
 ---
 
