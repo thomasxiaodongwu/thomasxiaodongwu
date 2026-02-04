@@ -26,24 +26,24 @@ Most of my work sits at the intersection of **DeFi perps/AMMs**, **NFT infrastru
 
 ## Experience highlights (selected)
 
-### GMX Limited — Senior Protocol Engineer (GMX-Solana Core) | 2025–Present
+### GMX Limited — Senior Protocol Engineer (GMX-Solana Core)
 - Worked on a **pool-based perpetual futures model** on Solana: market state, PnL tracking, liquidation/risk modules
 - Built and hardened **oracle aggregation & validation** (freshness, deviation windows, expiry checks) to reduce bad-price execution risk
 - Implemented parts of the **swap/settlement stack** to support cross-collateral conversions during open/close/add-margin flows
 - Contributed to **liquidity architecture** (GLV/GM pools), share accounting, and real-yield distribution mechanics
 - Designed/implemented an off-chain **Keeper**: monitors on-chain orders/events, validates prices, executes with fault-tolerance
 
-### Magic Eden — Smart Contract Engineer | 2023–Present
+### Magic Eden — Smart Contract Engineer
 - Designed/implemented **Solana NFT AMM**: bid/ask/dual-sided pools, curve-based pricing, royalty compatibility in batch scenarios
 - Built **NFT lottery / mystery box** protocol with commit–reveal style flow and full on-chain state machine (draw/fulfill/refund)
 - Developed **Sui NFT launchpad**: template-based minting, soft/hard caps, presale/refund mechanics using Move resources
 - Built **Solana/Sui indexing pipelines**: validator/plugin ingestion, Redis/Kafka distribution, Postgres persistence, analytics layer
 
-### NTT Data — Senior Blockchain Engineer (Hyperledger Fabric) | 2021–Present
+### NTT Data — Senior Blockchain Engineer (Hyperledger Fabric)
 - Implemented trade-document workflows as on-chain assets/state machines (permissioning, auditability, enterprise integrations)
 - Designed channel-based data sharing models (private/shared/observer) for compliance-grade access control
 
-### LBank — Senior Backend Engineer (Web3) | 2023–Present
+### LBank — Senior Backend Engineer (Web3)
 - Built Web3 service modules: encrypted key storage, address management, multi-chain routing, tx build/sign/broadcast
 - Implemented DEX aggregation flows and CEX-side funds/ledger services with stable high-concurrency processing
 
